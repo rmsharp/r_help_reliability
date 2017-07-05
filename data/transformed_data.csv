@@ -1,0 +1,6 @@
+pump_id,event_episodes,event_status,start_minutes,stop_minutes
+pump1,1,1,0,10
+pump1,2,1,10,40
+pump1,3,0,40,129600
+pump2,1,1,0,40
+pump2,2,0,0,129600
